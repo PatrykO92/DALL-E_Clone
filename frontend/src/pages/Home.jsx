@@ -27,6 +27,7 @@ const Home = () => {
           images genderated by DALL-E AI{" "}
         </p>
       </div>
+
       <div className="mt-16 ">
         <FormField />
       </div>
